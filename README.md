@@ -4,7 +4,7 @@
 [![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JarlPenguin&layout=compact&langs_count=10&theme=tokyonight)](https://github.com/JarlPenguin)
 
 ## What do I do
-- 🔨 I’m currently working on @LineageOS and @PixelExperience
+- 🔨 I’m currently working on [@LineageOS](https://github.com/LineageOS) and [@PixelExperience](https://github.com/PixelExperience)
 
 ## How to contact me
 - <img src="https://pbs.twimg.com/profile_images/1229405547050524683/mLrLsHAB_400x400.png" alt="4PDA" width="16"/> 4PDA - [JarlPenguin](https://4pda.ru/forum/index.php?showuser=8632649)
