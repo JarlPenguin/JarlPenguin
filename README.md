@@ -12,4 +12,4 @@
 - <img src="https://www.vectorlogo.zone/logos/reddit/reddit-icon.svg" alt="Reddit" width="16"/> Reddit - [u/Jarl_Penguin](https://reddit.com/u/Jarl_Penguin)
 - <img src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg" alt="Telegram" width="16"/> Telegram - [@JarlPenguin](https://t.me/JarlPenguin)
 - <img src="https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg" alt="Twitter" width="16"/> Twitter - [@JarlPenguin](https://twitter.com/JarlPenguin)
-- <img src="https://scontent.fhel3-1.fna.fbcdn.net/v/t1.0-9/120968604_10157792325131302_7014261584916210311_o.jpg?_nc_cat=1&ccb=1-3&_nc_sid=973b4a&_nc_ohc=uIw8TuBYflYAX_i1G0C&_nc_ht=scontent.fhel3-1.fna&oh=36be29d2b5c009788efcd61183700363&oe=6071D3A7" alt="XDA-Developers" width="16"/> XDA-Developers - [JarlPenguin](https://forum.xda-developers.com/m/jarlpenguin.9506129)
+- <img src="https://pbs.twimg.com/profile_images/1314334153521991680/DzcrNtVH_400x400.jpg" alt="XDA-Developers" width="16"/> XDA-Developers - [JarlPenguin](https://forum.xda-developers.com/m/jarlpenguin.9506129)
