@@ -3,6 +3,8 @@
 
 [![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JarlPenguin&layout=compact&langs_count=10&theme=tokyonight)](https://github.com/JarlPenguin)
 
+[![Now playing/Recently played on Spotify](https://spotify-github-profile.vercel.app/api/view?uid=atvwfdytf0ocxy2prgtpokxkh&cover_image=true&theme=default&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=atvwfdytf0ocxy2prgtpokxkh&redirect=true)
+
 ## What do I do
 - 🔨 I’m currently working on [@LineageOS](https://github.com/LineageOS) and [@PixelExperience](https://github.com/PixelExperience)
 
