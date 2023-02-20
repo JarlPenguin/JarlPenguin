@@ -1,8 +1,6 @@
 # Hi there 👋
 [![JarlPenguin github stats](https://github-readme-stats.vercel.app/api?username=JarlPenguin&show_icons=true&include_all_commits=true&theme=tokyonight)](https://github.com/JarlPenguin)
 
-[![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JarlPenguin&layout=compact&langs_count=10&theme=tokyonight)](https://github.com/JarlPenguin)
-
 ## What do I do
 - 🔨 I’m currently working on [@LineageOS](https://github.com/LineageOS) and [@PixelExperience](https://github.com/PixelExperience)
 
