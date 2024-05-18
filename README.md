@@ -2,12 +2,11 @@
 [![JarlPenguin github stats](https://github-readme-stats.vercel.app/api?username=JarlPenguin&show_icons=true&include_all_commits=true&theme=tokyonight)](https://github.com/JarlPenguin)
 
 ## What do I do
-- 🔨 I’m currently working on [@LineageOS](https://github.com/LineageOS) and [@PixelExperience](https://github.com/PixelExperience)
+- 🔨 Currently working on personal projects
+- Formerly worked on [@LineageOS](https://github.com/LineageOS) and [@PixelExperience](https://github.com/PixelExperience) for various devices
 
 ## How to contact me
-- <img src="https://pbs.twimg.com/profile_images/1229405547050524683/mLrLsHAB_400x400.png" alt="4PDA" width="16"/> 4PDA - [JarlPenguin](https://4pda.ru/forum/index.php?showuser=8632649)
-- <img src="https://www.vectorlogo.zone/logos/discordapp/discordapp-icon.svg" alt="Discord" width="16"/> Discord - [Jarl-Penguin#1366](https://discord.gg/VVuZHqT)
-- <img src="https://www.vectorlogo.zone/logos/reddit/reddit-icon.svg" alt="Reddit" width="16"/> Reddit - [u/Jarl_Penguin](https://reddit.com/u/Jarl_Penguin)
-- <img src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg" alt="Telegram" width="16"/> Telegram - [@JarlPenguin](https://t.me/JarlPenguin)
-- <img src="https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg" alt="Twitter" width="16"/> Twitter - [@JarlPenguin](https://twitter.com/JarlPenguin)
-- <img src="https://pbs.twimg.com/profile_images/1314334153521991680/DzcrNtVH_400x400.jpg" alt="XDA-Developers" width="16"/> XDA-Developers - [JarlPenguin](https://forum.xda-developers.com/m/jarlpenguin.9506129)
+- <img src="https://pbs.twimg.com/profile_images/1719768085815803905/Qt-WhTGg_400x400.jpg" alt="Discord" width="16"/> Discord - [JarlPenguin](https://discord.gg/VVuZHqT)
+- <img src="https://pbs.twimg.com/profile_images/1729909787029078016/dBjB3Fnr_400x400.jpg" alt="Reddit" width="16"/> Reddit - [u/Jarl_Penguin](https://reddit.com/u/Jarl_Penguin)
+- <img src="https://pbs.twimg.com/profile_images/1183117696730390529/LRDASku7_400x400.jpg" alt="Telegram" width="16"/> Telegram - [@JarlPenguin](https://t.me/JarlPenguin)
+- <img src="https://pbs.twimg.com/profile_images/1683899100922511378/5lY42eHs_400x400.jpg" alt="X" width="16"/> X - [@JarlPenguin](https://x.com/JarlPenguin)
