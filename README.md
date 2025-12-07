@@ -1,6 +1,8 @@
 # Hi there 👋
 [![JarlPenguin github stats](https://github-readme-stats-eight-theta.vercel.app/api?username=JarlPenguin&show_icons=true&include_all_commits=true&theme=tokyonight)](https://github.com/JarlPenguin)
 
+[![Now playing/Recently played](https://spotify-github-profile.kittinanx.com/api/view?uid=atvwfdytf0ocxy2prgtpokxkh&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=53b14f&bar_color_cover=true&mode=dark)](https://spotify-github-profile.kittinanx.com/api/view?uid=atvwfdytf0ocxy2prgtpokxkh&redirect=true)
+
 ## What do I do
 - 🔨 Currently working on personal projects
 - Formerly worked on [@LineageOS](https://github.com/LineageOS) and [@PixelExperience](https://github.com/PixelExperience) for various devices
