@@ -1,5 +1,5 @@
 # Hi there 👋
-[![JarlPenguin github stats](https://gstats.buddies-dev.de/api?username=JarlPenguin&show_icons=true&include_all_commits=true&theme=tokyonight)](https://github.com/JarlPenguin)
+[![JarlPenguin github stats](https://github-readme-stats-eight-theta.vercel.app/api?username=JarlPenguin&show_icons=true&include_all_commits=true&theme=tokyonight)](https://github.com/JarlPenguin)
 
 ## What do I do
 - 🔨 Currently working on personal projects
