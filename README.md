@@ -1,7 +1,17 @@
 # Hi there 👋
-[![JarlPenguin github stats](https://github-stats-extended.vercel.app/api?username=JarlPenguin&show_icons=true&include_all_commits=true&theme=dark_github)](https://github.com/JarlPenguin)
-
-[![Now playing/Recently played](https://spotify-github-profile.kittinanx.com/api/view?uid=atvwfdytf0ocxy2prgtpokxkh&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=53b14f&bar_color_cover=true&mode=dark)](https://spotify-github-profile.kittinanx.com/api/view?uid=atvwfdytf0ocxy2prgtpokxkh&redirect=true)
+<a href="https://github.com/JarlPenguin">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=JarlPenguin&show_icons=true&include_all_commits=true&theme=dark_github">
+  <img alt="Jarl-Penguin's GitHub stats" src="https://github-stats-extended.vercel.app/api?username=JarlPenguin&show_icons=true&include_all_commits=true&theme=light_github">
+</picture>
+</a>
+<br>
+<a href="https://spotify-github-profile.kittinanx.com/api/view?uid=atvwfdytf0ocxy2prgtpokxkh&redirect=true">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://spotify-github-profile.kittinanx.com/api/view?uid=atvwfdytf0ocxy2prgtpokxkh&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=53b14f&bar_color_cover=true&mode=dark">
+  <img alt="Now playing/Recently played" src="https://spotify-github-profile.kittinanx.com/api/view?uid=atvwfdytf0ocxy2prgtpokxkh&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=53b14f&bar_color_cover=true&mode=light">
+</picture>
+</a>
 
 ## What do I do
 - 🔨 Currently working on personal projects
