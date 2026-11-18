@@ -1,5 +1,5 @@
 # Hi there 👋
-[![JarlPenguin github stats](https://github-readme-stats-eight-theta.vercel.app/api?username=JarlPenguin&show_icons=true&include_all_commits=true&theme=tokyonight)](https://github.com/JarlPenguin)
+[![JarlPenguin github stats](https://github-stats-extended.vercel.app/api?username=JarlPenguin&show_icons=true&include_all_commits=true&theme=dark_github)](https://github.com/JarlPenguin)
 
 [![Now playing/Recently played](https://spotify-github-profile.kittinanx.com/api/view?uid=atvwfdytf0ocxy2prgtpokxkh&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=53b14f&bar_color_cover=true&mode=dark)](https://spotify-github-profile.kittinanx.com/api/view?uid=atvwfdytf0ocxy2prgtpokxkh&redirect=true)
 
@@ -8,7 +8,5 @@
 - Formerly worked on [@LineageOS](https://github.com/LineageOS) and [@PixelExperience](https://github.com/PixelExperience) for various devices
 
 ## How to contact me
-- <img src="https://cdn.bsky.app/img/avatar/plain/did:plc:z72i7hdynmk6r22z27h6tvur/bafkreihwihm6kpd6zuwhhlro75p5qks5qtrcu55jp3gddbfjsieiv7wuka@jpeg" alt="Bluesky" width="16"/> Bluesky - [@jarlpengu.in](https://bsky.app/profile/jarlpengu.in)
-- <img src="https://play-lh.googleusercontent.com/0oO5sAneb9lJP6l8c6DH4aj6f85qNpplQVHmPmbbBxAukDnlO7DarDW0b-kEIHa8SQ=w240-h480" alt="Discord" width="16"/> Discord - [jarlpenguin](https://discord.com/invite/VVuZHqT)
-- <img src="https://play-lh.googleusercontent.com/6Bexlvoh-v0z0YnxzXo_U5e5A6UdAETe8pIYyQ2E2KfhVf2BK5J83pFXKZbt125FHHQ=w240-h480" alt="Reddit" width="16"/> Reddit - [u/Jarl_Penguin](https://reddit.com/u/Jarl_Penguin)
-- <img src="https://pbs.twimg.com/profile_images/1183117696730390529/LRDASku7_400x400.jpg" alt="Telegram" width="16"/> Telegram - [@JarlPenguin](https://t.me/JarlPenguin)
+- <img src="https://cdn.bsky.app/img/avatar/plain/did:plc:z72i7hdynmk6r22z27h6tvur/bafkreihwihm6kpd6zuwhhlro75p5qks5qtrcu55jp3gddbfjsieiv7wuka" alt="Bluesky" width="16"/> Bluesky - [@jarlpengu.in](https://bsky.app/profile/jarlpengu.in)
+- <img src="https://play-lh.googleusercontent.com/o9B25HthMC6-jp-MPq6C1WQYJAG_Xndi1CHqbtBZvXOUN8FTsj2caRnUL4N6GPrZ-roCRTmATzhBLwJ_Zoc_Bg=s48" alt="Linktree" width="16"/> Linktree - [Jarl-Penguin](https://linktr.ee/JarlPenguin)
